@@ -1,0 +1,24 @@
+.color-info {
+  border:3px solid black;
+}
+#about_blue {
+  background-color: #6495ED;
+}
+#about_yellow {
+  background-color: #FFEBCD;
+}
+.text_blue {
+  color: blue;
+}
+.text_orange {
+  color:orange;
+}
+.important {
+  font-size: 16px;
+  font-weight: bold;
+}
+.nav {
+  background-color: red;
+  
+}
+a {color: white}
